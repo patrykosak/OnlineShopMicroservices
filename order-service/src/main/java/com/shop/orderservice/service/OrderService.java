@@ -4,15 +4,17 @@ import com.shop.orderservice.dto.OrderLineItemsDto;
 import com.shop.orderservice.dto.OrderRequest;
 import com.shop.orderservice.model.Order;
 import com.shop.orderservice.model.OrderLineItems;
-import com.shop.orderservice.repository.OrderRepository;
+import com.shop.orderservice.service.repository.OrderRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 import java.util.UUID;
 
 @Service
 @RequiredArgsConstructor
+@Transactional
 public class OrderService {
 
     private final OrderRepository orderRepository;
