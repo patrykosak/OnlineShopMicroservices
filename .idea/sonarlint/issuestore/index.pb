@@ -5,5 +5,3 @@ r
 Border-service/src/main/java/com/shop/orderservice/model/Order.java,3\3\3344e5f8fdc4e1a1fc9881ff5459012faa5597be
 {
 Korder-service/src/main/java/com/shop/orderservice/model/OrderLineItems.java,0\d\0d48dcbdffe40dcfc0ee665fa2c6de616e18c0ae
-|
-Lorder-service/src/main/java/com/shop/orderservice/dto/OrderLineItemsDto.java,a\d\ad9413c1ee49642f0676ce559b01c92a41ddce3e
