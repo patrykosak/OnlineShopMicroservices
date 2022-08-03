@@ -1,4 +1,4 @@
-package discoveryserver;
+package com.programming.techie.discoveryserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
