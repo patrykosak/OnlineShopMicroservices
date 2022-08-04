@@ -3,8 +3,6 @@
 Lorder-service/src/main/java/com/shop/orderservice/dto/OrderLineItemsDto.java,a\d\ad9413c1ee49642f0676ce559b01c92a41ddce3e
 |
 Lorder-service/src/main/java/com/shop/orderservice/dto/InventoryResponse.java,d\4\d48100a14df823f973b6535c0047bb274c6531ba
-H
-discovery-server/pom.xml,2\c\2c58c7878e43d126fc56cae853d5b06de57d0b3e
 F
 order-service/mvnw.cmd,0\2\0275856d2f703f59f31829addee37078b30fcaf9
 E
